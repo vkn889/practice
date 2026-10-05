@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Personal work stays local — each person's notebooks/data are never committed
+notebooks/*
+!notebooks/.gitkeep
+data/*
+!data/.gitkeep
